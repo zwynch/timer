@@ -1,0 +1,27 @@
+{
+    "name": "raitocz/timer",
+    "description": "Simple timer. This is fork of weew/timer working on PHP 5.3 for older projects.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maxim Kott",
+            "email": "maximkott@gmail.com"
+        },
+        {
+            "name": "Raito Akehanareru",
+            "email": "info@raito.cz"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "require": {
+        "weew/helpers-array-legacy": "^1.0.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^4.7",
+        "satooshi/php-coveralls": "^0.6.1"
+    }
+}
