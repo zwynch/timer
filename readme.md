@@ -16,7 +16,7 @@
 
 ## Installation
 
-`composer require raitocz/timer`
+`composer require zwynch/timer`
 
 ## Introduction
 
